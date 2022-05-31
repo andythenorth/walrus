@@ -1,13 +1,14 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
+cargoAcceptance:
+- PIGS
 cargoProduction: []
 colour: 1
 fundCostMultiplier: 100
 id: 0
 layout:
 - - - 1
-name: 'New industry #0'
+name: The Pig House
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
